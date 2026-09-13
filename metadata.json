@@ -1,0 +1,6 @@
+{
+  "name": "Koryto Dzika",
+  "description": "Najbardziej agresywna aplikacja z korytem dla prawdziwych byków. Szama z Biedry i Lidla. Żryj i rośnij.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
